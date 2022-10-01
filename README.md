@@ -13,7 +13,7 @@ pip install jupyter matplotlib
 
 ### Algebraic Functions
 * Lineal functions
-* Polino functions
+* Polynomial functions
 * Power functions
 
 
